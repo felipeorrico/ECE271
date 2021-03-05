@@ -1,0 +1,9 @@
+﻿  script.cpp
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001: An internal error has occurred in the compiler.
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001: (compiler file 'msc1.cpp', line 1529)
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001:  To work around this problem, try simplifying or changing the program near the locations listed above.
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001: Please choose the Technical Support command on the Visual C++
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001:  Help menu, or open the Technical Support help file for more information
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001: INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\CL.exe'
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001:     Please choose the Technical Support command on the Visual C++
+G:\My Drive\Classes\3rd Year\Fall 2019\ECE271\final design\CSV_script\script.cpp(31,1): fatal error C1001:     Help menu, or open the Technical Support help file for more information
