@@ -1,0 +1,29 @@
+|squarewave
+distance[0] => Div0.IN19
+distance[1] => Div0.IN18
+distance[2] => Div0.IN17
+distance[3] => Div0.IN16
+distance[4] => Div0.IN15
+distance[5] => Div0.IN14
+distance[6] => Div0.IN13
+distance[7] => Div0.IN12
+distance[8] => Div0.IN11
+distance[9] => Div0.IN10
+clk => wave~reg0.CLK
+clk => count[0].CLK
+clk => count[1].CLK
+clk => count[2].CLK
+clk => count[3].CLK
+clk => count[4].CLK
+clk => count[5].CLK
+clk => count[6].CLK
+clk => count[7].CLK
+clk => count[8].CLK
+clk => count[9].CLK
+clk => count[10].CLK
+clk => count[11].CLK
+clk => count[12].CLK
+clk => count[13].CLK
+wave <= wave~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

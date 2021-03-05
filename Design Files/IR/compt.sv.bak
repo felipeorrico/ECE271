@@ -1,0 +1,4 @@
+module compt(input logic a, input logic b, output logic ab, output logic ba);
+	assign ab = (a > b);
+	assign ba = (b > a);
+endmodule 

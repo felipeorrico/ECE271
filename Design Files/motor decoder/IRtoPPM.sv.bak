@@ -1,0 +1,10 @@
+module IRtoPPM (input logic [2:0]button, input logic clock, output logic [2:0]multiplier);
+
+	logic [2:0] multi;
+	
+	always_ff@(posedge clk)
+	begin
+	
+	end
+
+endmodule 
