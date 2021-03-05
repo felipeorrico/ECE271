@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "wave",
+					"strict" : false
+				},
+				{
+					"name" : "forward",
+					"strict" : false
+				},
+				{
+					"name" : "back",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
